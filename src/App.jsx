@@ -10,7 +10,7 @@ function App() {
         </header>
         <main className="content">
           <div className="artist-image">
-            <img src="public/artist_img.jpg" alt="Image of Future Hendrix"/>
+            <img src="/artist_img.jpg" alt="Image of Future Hendrix"/>
           </div>
           <div className="details-section">
             <h2>Future Hendrix Albums</h2>
